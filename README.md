@@ -11,7 +11,7 @@ https://github.com/sant1ana/LinkBio-Neymar/assets/93404790/56fc2bd8-e11d-4c37-82
 
 ## :books: O que aprendi:
 - Pseudo-classes e pseudo-elementos;
-- Utilização da tag ```<video>```.
+- Utilização da tag  ```<video>```
 
 ## ✅ Status do Projeto
 
@@ -21,4 +21,4 @@ https://github.com/sant1ana/LinkBio-Neymar/assets/93404790/56fc2bd8-e11d-4c37-82
 
 ## :link: Acesso ao projeto
 
-Você pode acessar o projeto final clicando aqui:
+Você pode acessar o projeto final clicando aqui: https://sant1ana.github.io/LinkBio-Neymar/
