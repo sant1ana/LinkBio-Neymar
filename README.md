@@ -21,4 +21,4 @@ https://github.com/sant1ana/LinkBio-Neymar/assets/93404790/56fc2bd8-e11d-4c37-82
 
 ## :link: Acesso ao projeto
 
-Você pode acessar o projeto final clicando aqui: https://sant1ana.github.io/LinkBio-Neymar/
+Você pode acessar o projeto final clicando aqui: https://splendid-treacle-b7747a.netlify.app
